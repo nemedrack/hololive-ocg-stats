@@ -178,7 +178,7 @@ export default function ArchiveDashboard() {
         <div className="card" style={{ marginTop: 12, borderColor: "rgba(220,38,38,0.25)" }}>
           <b style={{ color: "#b91c1c" }}>Error</b>
           <div className="muted" style={{ marginTop: 6 }}>
-            {error}
+            {catalogError}
           </div>
         </div>
       )}
