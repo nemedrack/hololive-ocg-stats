@@ -1,4 +1,5 @@
 import { PieChart, Pie, Tooltip, ResponsiveContainer, Legend, Cell } from "recharts";
+import type { LegendPayload } from "recharts";
 
 const FALLBACK = [
   "var(--chart-1)","var(--chart-2)","var(--chart-3)","var(--chart-4)","var(--chart-5)",
@@ -16,7 +17,7 @@ function CustomLegend({
   payload,
   data,
 }: {
-  payload?: any[];
+  payload?: readonly LegendPayload[];
   data: PieItem[];
 }) {
   if (!payload?.length) return null;
@@ -168,7 +169,8 @@ export default function MetaPie({ data }: { data: PieItem[] }) {
             }}
           />
 
-          <Legend verticalAlign="bottom" content={(props) => <CustomLegend {...props} data={data} />} />
+          <Legend verticalAlign="bottom" content={(props) => <CustomLegend payload={props.payload} data={data} />} />
+
         </PieChart>
       </ResponsiveContainer>
     </div>
