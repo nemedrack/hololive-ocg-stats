@@ -1,0 +1,132 @@
+{
+  "id": "2026-02-02_weekly_24ob",
+  "name": "Weekly Hololive OCG",
+  "date": "2026-02-02",
+  "location": "",
+  "format": {
+    "type": "swiss",
+    "rounds": 4,
+    "rules": {
+      "winPoints": 3,
+      "drawPoints": 1,
+      "lossPoints": 0
+    }
+  },
+  "players": [
+    {
+      "pid": "p_8qdi1zqy",
+      "name": "Neme"
+    },
+    {
+      "pid": "p_i8u86ci6",
+      "name": "Rodo"
+    },
+    {
+      "pid": "p_h3muaed8",
+      "name": "Isa"
+    },
+    {
+      "pid": "p_3srv8x1d",
+      "name": "Chicago"
+    }
+  ],
+  "decks": [
+    {
+      "did": "flare",
+      "name": "Flare"
+    },
+    {
+      "did": "monowatame",
+      "name": "Mono Watame"
+    },
+    {
+      "did": "submarine",
+      "name": "SubMarine"
+    },
+    {
+      "did": "suichloe",
+      "name": "SuiChloe"
+    }
+  ],
+  "entries": [
+    {
+      "pid": "p_8qdi1zqy",
+      "did": "monowatame"
+    },
+    {
+      "pid": "p_3srv8x1d",
+      "did": "flare"
+    },
+    {
+      "pid": "p_i8u86ci6",
+      "did": "suichloe"
+    },
+    {
+      "pid": "p_h3muaed8",
+      "did": "submarine"
+    }
+  ],
+  "rounds": [
+    {
+      "r": 1,
+      "locked": true,
+      "matches": [
+        {
+          "mid": "m_bvct4a3r",
+          "table": 1,
+          "a": "p_8qdi1zqy",
+          "b": "p_i8u86ci6",
+          "result": "B"
+        },
+        {
+          "mid": "m_hob2b32f",
+          "table": 2,
+          "a": "p_h3muaed8",
+          "b": "p_3srv8x1d",
+          "result": "A"
+        }
+      ]
+    },
+    {
+      "r": 2,
+      "locked": true,
+      "matches": [
+        {
+          "mid": "m_dqwk7zhu",
+          "table": 1,
+          "a": "p_8qdi1zqy",
+          "b": "p_3srv8x1d",
+          "result": "B"
+        },
+        {
+          "mid": "m_h6es3dyv",
+          "table": 2,
+          "a": "p_i8u86ci6",
+          "b": "p_h3muaed8",
+          "result": "B"
+        }
+      ]
+    },
+    {
+      "r": 3,
+      "locked": true,
+      "matches": [
+        {
+          "mid": "m_o2vc8nu0",
+          "table": 1,
+          "a": "p_8qdi1zqy",
+          "b": "p_h3muaed8",
+          "result": "B"
+        },
+        {
+          "mid": "m_zz7zduoi",
+          "table": 2,
+          "a": "p_i8u86ci6",
+          "b": "p_3srv8x1d",
+          "result": "A"
+        }
+      ]
+    }
+  ],
+  "notes": ""
+}

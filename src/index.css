@@ -1,0 +1,4 @@
+/* Base mínima. El look & feel vive en theme.css */
+:root { color-scheme: light; }
+
+body { margin: 0; }

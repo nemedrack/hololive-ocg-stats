@@ -1,0 +1,42 @@
+[
+  {
+    "key": "tokinosora",
+    "name": "Tokino Sora",
+    "oshi": "Tokino Sora",
+    "color": "#d3e8e6",
+    "icon": "data/decks/icons/sora.png",
+    "aliases": ["Tokino Sora","Sora"]
+  },
+  {
+    "key": "monowatame",
+    "name": "Mono Watame",
+    "oshi": "Watame",
+    "color": "#fce803",
+    "icon": "data/decks/icons/watame.png",
+    "aliases": ["Watame", "Mono Watame"]
+  },
+  {
+    "key": "suichloe",
+    "name": "SuiChloe",
+    "oshi": "Suisei",
+    "color": "#0390fc",
+    "icon": "data/decks/icons/suisei.png",
+    "aliases": ["Suisei", "SuiChloe"]
+  },
+  {
+    "key": "submarine",
+    "name": "SubMarine",
+    "oshi": "Subaru",
+    "color": "#fcca03",
+    "icon": "data/decks/icons/subaru.png",
+    "aliases": ["SubMarine", "subaru"]
+  },
+  {
+    "key": "flare",
+    "name": "Flare",
+    "oshi": "Flare",
+    "color": "#fca903",
+    "icon": "data/decks/icons/flare.png",
+    "aliases": ["Flare"]
+  }
+]

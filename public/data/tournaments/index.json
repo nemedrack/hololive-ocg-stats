@@ -1,0 +1,14 @@
+[
+  {
+    "id": "2026-02-03_scl_weekly_01",
+    "date": "2026-02-03",
+    "name": "Weekly Hololive OCG #01",
+    "path": "data/tournaments/2026/02/2026-02-03_scl_weekly_01.json"
+  },
+  {
+    "id": "2026-02-04_scl_weekly_01",
+    "date": "2026-02-04",
+    "name": "Weekly Hololive OCG #02",
+    "path": "data/tournaments/2026/02/2026-02-04_weekly_2u2p.json"
+  }
+]
