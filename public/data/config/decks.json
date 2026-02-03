@@ -3,25 +3,241 @@
     "key": "tokinosora",
     "name": "Tokino Sora",
     "oshi": "Tokino Sora",
-    "color": "#d3e8e6",
+    "color": "#d1e8e8",
     "icon": "data/decks/icons/sora.png",
     "aliases": ["Tokino Sora","Sora"]
+  },
+  {
+    "key": "soraroboco",
+    "name": "Tokino Sora (Roboco)",
+    "oshi": "Kanata",
+    "color": "#d1e8e8",
+    "icon": "data/decks/icons/kanata.png",
+    "aliases": ["Tokino Sora roboco","Soraroboco","Kanata"]
+  },
+  {
+    "key": "sorazroboco",
+    "name": "SorAzRoboco",
+    "oshi": "Azki",
+    "color": "#d1e8e8",
+    "icon": "data/decks/icons/azki.png",
+    "aliases": ["Sora roboco azki","Soraroboco","Azki"]
+  },
+  {
+    "key": "monokanata",
+    "name": "Mono Kanata",
+    "oshi": "Kanata",
+    "color": "#dee3e3",
+    "icon": "data/decks/icons/kanata.png",
+    "aliases": ["Mono Kanata", "Kanata"]
+  },
+  {
+    "key": "kanatapromise",
+    "name": "Kanata Promise",
+    "oshi": "Kanata",
+    "color": "#dee3e3",
+    "icon": "data/decks/icons/kanata.png",
+    "aliases": ["Kanata Promise", "Kanata"]
+  },
+  {
+    "key": "promisecore",
+    "name": "Promise Core",
+    "oshi": "Mumei",
+    "color": "#dee3e3",
+    "icon": "data/decks/icons/mumei.png",
+    "aliases": ["Promise Core", "Mumei"]
+  },
+  {
+    "key": "monofubuki",
+    "name": "Mono Fubuki",
+    "oshi": "Fubuki",
+    "color": "#d8f0f2",
+    "icon": "data/decks/icons/fubuki.png",
+    "aliases": ["Mono Fubuki", "Fubuki"]
+  },
+  {
+    "key": "fubumio",
+    "name": "FubuMio",
+    "oshi": "Fubuki",
+    "color": "#d8f0f2",
+    "icon": "data/decks/icons/fubuki.png",
+    "aliases": ["FubuMio", "Fubuki", "Mio"]
+  },
+  {
+    "key": "kanashion",
+    "name": "KanaShion",
+    "oshi": "Kanata",
+    "color": "#9eeaf0",
+    "icon": "data/decks/icons/kanata.png",
+    "aliases": ["KanaShion", "Kanata", "Shion"]
+  },
+  {
+    "key": "luna",
+    "name": "Luna",
+    "oshi": "Luna",
+    "color": "#f089e4",
+    "icon": "data/decks/icons/luna.png",
+    "aliases": ["Luna"]
   },
   {
     "key": "monowatame",
     "name": "Mono Watame",
     "oshi": "Watame",
-    "color": "#fce803",
+    "color": "#f5c402",
     "icon": "data/decks/icons/watame.png",
     "aliases": ["Watame", "Mono Watame"]
+  },
+  {
+    "key": "watameramp",
+    "name": "Watame Ramp",
+    "oshi": "Watame",
+    "color": "#f5c402",
+    "icon": "data/decks/icons/watame.png",
+    "aliases": ["Watame", "Watame Ramp"]
+  },
+  {
+    "key": "monoflare",
+    "name": "Mono Flare",
+    "oshi": "Flare",
+    "color": "#ed9f18",
+    "icon": "data/decks/icons/flare.png",
+    "aliases": ["Flare", "Mono Flare"]
+  },
+  {
+    "key": "flarepeko",
+    "name": "FlarePeko",
+    "oshi": "Flare",
+    "color": "#ed9f18",
+    "icon": "data/decks/icons/flare.png",
+    "aliases": ["Flare", "FlarePeko"]
+  },
+  {
+    "key": "flaremarine",
+    "name": "FlareMarine",
+    "oshi": "Korone",
+    "color": "#ed9f18",
+    "icon": "data/decks/icons/korone.png",
+    "aliases": ["Flare", "FlareMarine","Korone"]
+  },
+  {
+    "key": "risuiofi",
+    "name": "RisuIofi",
+    "oshi": "Risu",
+    "color": "#f5ea53",
+    "icon": "data/decks/icons/risu.png",
+    "aliases": ["Risu", "RisuIofi"]
+  },
+  {
+    "key": "risumoona",
+    "name": "RisuMoona",
+    "oshi": "Kobo",
+    "color": "#f5ea53",
+    "icon": "data/decks/icons/kobo.png",
+    "aliases": ["Risu", "RisuMoona","Kobo"]
+  },
+  {
+    "key": "monokorone",
+    "name": "Mono Korone",
+    "oshi": "Korone",
+    "color": "#c9bf30",
+    "icon": "data/decks/icons/korone.png",
+    "aliases": ["Korone", "Mono Korone"]
   },
   {
     "key": "suichloe",
     "name": "SuiChloe",
     "oshi": "Suisei",
-    "color": "#0390fc",
+    "color": "#1484f5",
     "icon": "data/decks/icons/suisei.png",
     "aliases": ["Suisei", "SuiChloe"]
+  },
+  {
+    "key": "suimoona",
+    "name": "SuiMoona",
+    "oshi": "Suisei",
+    "color": "#1484f5",
+    "icon": "data/decks/icons/suisei.png",
+    "aliases": ["Suisei", "SuiMoona"]
+  },
+  {
+    "key": "suiroha",
+    "name": "SuiRoha",
+    "oshi": "Suisei",
+    "color": "#1484f5",
+    "icon": "data/decks/icons/suisei.png",
+    "aliases": ["Suisei", "SuiRoha"]
+  },
+  {
+    "key": "suirobo",
+    "name": "SuiRobo",
+    "oshi": "Suisei",
+    "color": "#1484f5",
+    "icon": "data/decks/icons/suisei.png",
+    "aliases": ["Suisei", "SuiRobo"]
+  },
+  {
+    "key": "micomet",
+    "name": "miComet",
+    "oshi": "Suisei",
+    "color": "#1484f5",
+    "icon": "data/decks/icons/suisei.png",
+    "aliases": ["Suisei", "miComet","Miko"]
+  },
+  {
+    "key": "kobo",
+    "name": "Kobo",
+    "oshi": "Kobo",
+    "color": "#0882fc",
+    "icon": "data/decks/icons/kobo.png",
+    "aliases": ["Kobo"]
+  },
+  {
+    "key": "moonazeta",
+    "name": "MoonaZeta",
+    "oshi": "Kobo",
+    "color": "#422b8a",
+    "icon": "data/decks/icons/kobo.png",
+    "aliases": ["Kobo", "MoonaZeta"]
+  },
+  {
+    "key": "moonaiofi",
+    "name": "MoonaIofi",
+    "oshi": "Suisei",
+    "color": "#422b8a",
+    "icon": "data/decks/icons/suisei.png",
+    "aliases": ["Kobo", "MoonaIofi","suisei"]
+  },
+  {
+    "key": "monochloe",
+    "name": "Mono Chloe",
+    "oshi": "Chloe",
+    "color": "#3104ba",
+    "icon": "data/decks/icons/chloe.png",
+    "aliases": ["Chloe", "Mono Chloe"]
+  },
+  {
+    "key": "chloelui",
+    "name": "ChloeLui",
+    "oshi": "Chloe",
+    "color": "#3104ba",
+    "icon": "data/decks/icons/chloe.png",
+    "aliases": ["Chloe", "ChloeLui"]
+  },
+  {
+    "key": "okayu",
+    "name": "Okayu",
+    "oshi": "kobo",
+    "color": "#7d31b0",
+    "icon": "data/decks/icons/kobo.png",
+    "aliases": ["Okayu","kobo"]
+  },
+  {
+    "key": "fuwamoco",
+    "name": "Fuwamoco",
+    "oshi": "Fuwamoco",
+    "color": "#4e87f2",
+    "icon": "data/decks/icons/fuwamoco.png",
+    "aliases": ["Fuwamoco"]
   },
   {
     "key": "submarine",
@@ -32,11 +248,283 @@
     "aliases": ["SubMarine", "subaru"]
   },
   {
-    "key": "flare",
-    "name": "Flare",
-    "oshi": "Flare",
-    "color": "#fca903",
-    "icon": "data/decks/icons/flare.png",
-    "aliases": ["Flare"]
+    "key": "kiararamp",
+    "name": "KiaraRamp",
+    "oshi": "Kiara",
+    "color": "#fa4f16",
+    "icon": "data/decks/icons/kiara.png",
+    "aliases": ["KiaraRamp", "Kiara","Chloe"]
+  },
+  {
+    "key": "kiarairoha",
+    "name": "KiaraIroha",
+    "oshi": "Kiara",
+    "color": "#fa4f16",
+    "icon": "data/decks/icons/kiara.png",
+    "aliases": ["KiaraIroha", "Kiara","Iroha"]
+  },
+  {
+    "key": "polkiara",
+    "name": "PolKiara",
+    "oshi": "Kiara",
+    "color": "#fa4f16",
+    "icon": "data/decks/icons/kiara.png",
+    "aliases": ["PolKiara", "Kiara","Polka"]
+  },
+  {
+    "key": "kiarazeta",
+    "name": "KiaraZeta",
+    "oshi": "Kiara",
+    "color": "#fa4f16",
+    "icon": "data/decks/icons/kiara.png",
+    "aliases": ["KiaraZeta", "Kiara","Zeta"]
+  },
+  {
+    "key": "lui",
+    "name": "Lui",
+    "oshi": "Lui",
+    "color": "#a82727",
+    "icon": "data/decks/icons/lui.png",
+    "aliases": ["Lui"]
+  },
+  {
+    "key": "polkafans",
+    "name": "Polka 12 Fans",
+    "oshi": "Polka",
+    "color": "#a82727",
+    "icon": "data/decks/icons/polka.png",
+    "aliases": ["Polka 12 Fans","Polka"]
+  },
+  {
+    "key": "monomarine",
+    "name": "Mono Marine",
+    "oshi": "Marine",
+    "color": "#ad0505",
+    "icon": "data/decks/icons/marine.png",
+    "aliases": ["Mono Marine", "Marine"]
+  },
+  {
+    "key": "marinechloe",
+    "name": "Marine Chloe",
+    "oshi": "Marine",
+    "color": "#ad0505",
+    "icon": "data/decks/icons/marine.png",
+    "aliases": ["Marine Chloe", "Marine", "Chloe"]
+  },
+  {
+    "key": "marineiroha",
+    "name": "Marine Iroha",
+    "oshi": "Marine",
+    "color": "#ad0505",
+    "icon": "data/decks/icons/marine.png",
+    "aliases": ["Marine Iroha", "Marine", "Iroha"]
+  },
+  {
+    "key": "monoayame",
+    "name": "Mono Ayame",
+    "oshi": "Kiara",
+    "color": "#f52a2a",
+    "icon": "data/decks/icons/kiara.png",
+    "aliases": ["Mono Ayame", "Ayame"]
+  },
+  {
+    "key": "ayamio",
+    "name": "AyaMio",
+    "oshi": "Kiara",
+    "color": "#f52a2a",
+    "icon": "data/decks/icons/kiara.png",
+    "aliases": ["Mono Ayame", "Ayame","Mio"]
+  },
+  {
+    "key": "ayapeko",
+    "name": "AyaPeko",
+    "oshi": "Kiara",
+    "color": "#f52a2a",
+    "icon": "data/decks/icons/kiara.png",
+    "aliases": ["Mono Ayame", "Ayame","Peko"]
+  },
+  {
+    "key": "miko",
+    "name": "Miko",
+    "oshi": "Miko",
+    "color": "#fa5a5a",
+    "icon": "data/decks/icons/miko.png",
+    "aliases": ["Miko"]
+  },
+  {
+    "key": "azki",
+    "name": "Azki",
+    "oshi": "Azki",
+    "color": "#04bd34",
+    "icon": "data/decks/icons/azki.png",
+    "aliases": ["Azki"]
+  },
+  {
+    "key": "akirose",
+    "name": "Aki Rose",
+    "oshi": "Aki",
+    "color": "#05f543",
+    "icon": "data/decks/icons/aki.png",
+    "aliases": ["Aki Rose", "Aki"]
+  },
+  {
+    "key": "monopekora",
+    "name": "Mono Pekora",
+    "oshi": "Pekora",
+    "color": "#18f551",
+    "icon": "data/decks/icons/pekora.png",
+    "aliases": ["Mono Pekora", "Pekora"]
+  },
+  {
+    "key": "pekomarine",
+    "name": "Peko Marine",
+    "oshi": "Pekora",
+    "color": "#18f551",
+    "icon": "data/decks/icons/pekora.png",
+    "aliases": ["Peko Marine", "Pekora", "Marine"]
+  },
+  {
+    "key": "pekoiroha",
+    "name": "Peko Iroha",
+    "oshi": "Pekora",
+    "color": "#18f551",
+    "icon": "data/decks/icons/pekora.png",
+    "aliases": ["Peko Iroha", "Pekora", "Iroha"]
+  },
+  {
+    "key": "pekomoona",
+    "name": "Peko Moona",
+    "oshi": "Pekora",
+    "color": "#18f551",
+    "icon": "data/decks/icons/pekora.png",
+    "aliases": ["Peko Moona", "Pekora", "Moona"]
+  },
+  {
+    "key": "reineiofi",
+    "name": "Reine Iofi",
+    "oshi": "Reine",
+    "color": "#46a35e",
+    "icon": "data/decks/icons/reine.png",
+    "aliases": ["Reine Iofi", "Reine", "Iofi"]
+  },
+  {
+    "key": "reinezeta",
+    "name": "Reine Zeta",
+    "oshi": "Reine",
+    "color": "#46a35e",
+    "icon": "data/decks/icons/reine.png",
+    "aliases": ["Reine Zeta", "Reine", "Zeta"]
+  },
+  {
+    "key": "reinemarine",
+    "name": "Reine Marine",
+    "oshi": "Reine",
+    "color": "#46a35e",
+    "icon": "data/decks/icons/reine.png",
+    "aliases": ["Reine Marine", "Reine", "Marine"]
+  },
+  {
+    "key": "mio",
+    "name": "Mio",
+    "oshi": "Pekora",
+    "color": "#2a783e",
+    "icon": "data/decks/icons/pekora.png",
+    "aliases": ["Mio","Pekora"]
+  },
+  {
+    "key": "monoiroha",
+    "name": "Mono Iroha",
+    "oshi": "Pekora",
+    "color": "#34b354",
+    "icon": "data/decks/icons/pekora.png",
+    "aliases": ["Mono Iroha", "Iroha","Pekora"]
+  },
+  {
+    "key": "botan",
+    "name": "Botan",
+    "oshi": "Botan",
+    "color": "#05571a",
+    "icon": "data/decks/icons/botan.png",
+    "aliases": ["Botan"]
+  },
+  {
+    "key": "ollie",
+    "name": "Ollie",
+    "oshi": "Ollie",
+    "color": "#8a3b9c",
+    "icon": "data/decks/icons/ollie.png",
+    "aliases": ["Ollie"]
+  },
+  {
+    "key": "calliramp",
+    "name": "Calli Ramp",
+    "oshi": "Calli",
+    "color": "#b741d1",
+    "icon": "data/decks/icons/calli.png",
+    "aliases": ["Calli Ramp", "Calli","Chloe"]
+  },
+  {
+    "key": "takamori",
+    "name": "Takamori",
+    "oshi": "Calli",
+    "color": "#b741d1",
+    "icon": "data/decks/icons/calli.png",
+    "aliases": ["Takamori", "calli","kiara"]
+  },
+  {
+    "key": "monoshion",
+    "name": "Mono Shion",
+    "oshi": "Shion",
+    "color": "#540266",
+    "icon": "data/decks/icons/shion.png",
+    "aliases": ["Mono Shion", "Shion"]
+  },
+  {
+    "key": "shionchloe",
+    "name": "Shion Chloe",
+    "oshi": "Shion",
+    "color": "#540266",
+    "icon": "data/decks/icons/shion.png",
+    "aliases": ["Shion Chloe", "Shion", "Chloe"]
+  },
+  {
+    "key": "ina",
+    "name": "Ina",
+    "oshi": "Ollie",
+    "color": "#9621b0",
+    "icon": "data/decks/icons/ollie.png",
+    "aliases": ["Ina"]
+  },
+  {
+    "key": "chocosensei",
+    "name": "Choco Sensei",
+    "oshi": "Ollie",
+    "color": "#641675",
+    "icon": "data/decks/icons/ollie.png",
+    "aliases": ["Choco Sensei", "Sensei", "Ollie"]
+  },
+  {
+    "key": "chocoramp",
+    "name": "Choco Ramp",
+    "oshi": "Ollie",
+    "color": "#641675",
+    "icon": "data/decks/icons/ollie.png",
+    "aliases": ["Choco Ramp", "Ramp", "Ollie"]
+  },
+  {
+    "key": "towacore",
+    "name": "Towa Core",
+    "oshi": "Towa",
+    "color": "#8803a6",
+    "icon": "data/decks/icons/towa.png",
+    "aliases": ["Towa Core", "Core", "Towa"]
+  },
+  {
+    "key": "towaramp",
+    "name": "Towa Ramp",
+    "oshi": "Towa",
+    "color": "#8803a6",
+    "icon": "data/decks/icons/towa.png",
+    "aliases": ["Towa Ramp", "Ramp", "Towa"]
   }
 ]
