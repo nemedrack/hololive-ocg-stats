@@ -1,9 +1,10 @@
 import { useState } from "react";
 import LiveTournament from "./pages/LiveTournament";
 import ArchiveDashboard from "./pages/ArchiveDashboard";
+import DeckLab from "./pages/DeckLab";
 
 export default function App() {
-  const [tab, setTab] = useState<"live" | "archive">("live");
+  const [tab, setTab] = useState<"live" | "archive" | "decklab">("live");
 
   return (
     <div>
@@ -30,12 +31,24 @@ export default function App() {
             >
               Archive
             </button>
+            <button
+              className={`btn ${tab === "decklab" ? "btn-primary" : "btn-ghost"}`}
+              onClick={() => setTab("decklab")}
+            >
+              Deck Lab
+            </button>
           </div>
         </div>
       </div>
 
       <div className="page">
-        {tab === "live" ? <LiveTournament /> : <ArchiveDashboard />}
+        {tab === "live" ? (
+          <LiveTournament />
+        ) : tab === "archive" ? (
+          <ArchiveDashboard />
+        ) : (
+          <DeckLab />
+        )}
       </div>
     </div>
   );

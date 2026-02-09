@@ -9,19 +9,19 @@ export type PlayerAgg = {
   l: number;
   d: number;
   points: number;
-  winRate: number; // w / matches
+  winRate: number;
 };
 
 export type DeckAgg = {
   did: string;
   deckName: string;
-  entries: number;   // cuántas veces aparece en inscripciones (1 por jugador por torneo)
-  metaShare: number; // entries / totalEntries
+  entries: number;
+  metaShare: number;
   matches: number;
   w: number;
   l: number;
   d: number;
-  winRate: number;   // w / matches
+  winRate: number;
 };
 
 export function aggregatePlayersAndDecks(tournaments: Tournament[]) {
@@ -31,14 +31,12 @@ export function aggregatePlayersAndDecks(tournaments: Tournament[]) {
   let totalEntries = 0;
 
   for (const t of tournaments) {
-    // pid->deck y did->name
     const pidToDid = new Map<string, string>();
     for (const e of t.entries) pidToDid.set(e.pid, e.did);
 
     const didToName = new Map<string, string>();
     for (const d of t.decks) didToName.set(d.did, d.name);
 
-    // entries/meta
     for (const p of t.players) {
       const did = pidToDid.get(p.pid);
       if (!did) continue;
@@ -61,7 +59,6 @@ export function aggregatePlayersAndDecks(tournaments: Tournament[]) {
       deckMap.get(did)!.entries += 1;
     }
 
-    // init players
     for (const p of t.players) {
       if (!playerMap.has(p.pid)) {
         playerMap.set(p.pid, {
@@ -77,20 +74,17 @@ export function aggregatePlayersAndDecks(tournaments: Tournament[]) {
         });
       }
     }
-    // contar torneos por jugador (si participa)
     for (const p of t.players) {
       playerMap.get(p.pid)!.tournaments += 1;
     }
 
     const rules = t.format.rules;
 
-    // matches
     for (const rd of t.rounds) {
       for (const m of rd.matches) {
         const r = m.result as Result | undefined;
         if (!r) continue;
 
-        // BYE: suma a jugador (win + pts), pero NO a deck stats global (igual que local)
         if (r === "BYE") {
           const pa = playerMap.get(m.a);
           if (pa) {
@@ -107,7 +101,6 @@ export function aggregatePlayersAndDecks(tournaments: Tournament[]) {
         const pb = playerMap.get(m.b);
         if (!pa || !pb) continue;
 
-        // actualizar player stats
         if (r === "A") {
           pa.matches += 1; pb.matches += 1;
           pa.w += 1; pb.l += 1;
@@ -125,7 +118,6 @@ export function aggregatePlayersAndDecks(tournaments: Tournament[]) {
           pb.points += rules.drawPoints;
         }
 
-        // deck stats (solo si ambos tienen deck)
         const didA = pidToDid.get(m.a);
         const didB = pidToDid.get(m.b);
         if (!didA || !didB) continue;
@@ -153,7 +145,6 @@ export function aggregatePlayersAndDecks(tournaments: Tournament[]) {
     ...p,
     winRate: p.matches > 0 ? p.w / p.matches : 0,
   })).sort((a, b) => {
-    // orden: points desc, winrate desc, matches desc
     if (b.points !== a.points) return b.points - a.points;
     if (b.winRate !== a.winRate) return b.winRate - a.winRate;
     return b.matches - a.matches;
@@ -164,7 +155,6 @@ export function aggregatePlayersAndDecks(tournaments: Tournament[]) {
     metaShare: totalEntries > 0 ? d.entries / totalEntries : 0,
     winRate: d.matches > 0 ? d.w / d.matches : 0,
   })).sort((a, b) => {
-    // orden: meta desc, winrate desc, matches desc
     if (b.metaShare !== a.metaShare) return b.metaShare - a.metaShare;
     if (b.winRate !== a.winRate) return b.winRate - a.winRate;
     return b.matches - a.matches;

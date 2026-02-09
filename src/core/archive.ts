@@ -2,13 +2,12 @@ import type { Tournament } from "./types";
 
 export type TournamentIndexItem = {
   id: string;
-  date: string; // YYYY-MM-DD
+  date: string;
   name: string;
-  path: string; // relativo, ej: "data/tournaments/2026/02/xxx.json"
+  path: string;
 };
 
 function withBase(path: string) {
-  // Vite: en GH Pages BASE_URL suele ser "/repo/"
   return `${import.meta.env.BASE_URL}${path}`;
 }
 
