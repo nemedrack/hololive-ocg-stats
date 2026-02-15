@@ -36,13 +36,21 @@
     "name": "Kanata Promise",
     "oshi": "Kanata",
     "color": "#dee3e3",
-    "icon": "data/decks/icons/kanata.png",
+    "icon": "data/decks/icons/mumei.png",
     "aliases": ["Kanata Promise", "Kanata"]
   },
   {
     "key": "promisecore",
     "name": "Promise Core",
     "oshi": "Mumei",
+    "color": "#dee3e3",
+    "icon": "data/decks/icons/mumei.png",
+    "aliases": ["Promise Core", "Mumei"]
+  },
+  {
+    "key": "promisepekora",
+    "name": "Promise Pekora",
+    "oshi": "Pekora",
     "color": "#dee3e3",
     "icon": "data/decks/icons/mumei.png",
     "aliases": ["Promise Core", "Mumei"]
@@ -290,10 +298,10 @@
   {
     "key": "polkafans",
     "name": "Polka 12 Fans",
-    "oshi": "Polka",
+    "oshi": "Ollie",
     "color": "#a82727",
     "icon": "data/decks/icons/polka.png",
-    "aliases": ["Polka 12 Fans","Polka"]
+    "aliases": ["Polka 12 Fans","Polka", "Ollie"]
   },
   {
     "key": "monomarine",
