@@ -402,7 +402,7 @@
   {
     "key": "reineiofi",
     "name": "Reine Iofi",
-    "oshi": "Reine",
+    "oshi": "Ollie",
     "color": "#46a35e",
     "icon": "data/decks/icons/reine.png",
     "aliases": ["Reine Iofi", "Reine", "Iofi"]
@@ -410,7 +410,7 @@
   {
     "key": "reinezeta",
     "name": "Reine Zeta",
-    "oshi": "Reine",
+    "oshi": "Azki",
     "color": "#46a35e",
     "icon": "data/decks/icons/reine.png",
     "aliases": ["Reine Zeta", "Reine", "Zeta"]
@@ -418,7 +418,7 @@
   {
     "key": "reinemarine",
     "name": "Reine Marine",
-    "oshi": "Reine",
+    "oshi": "Kobo",
     "color": "#46a35e",
     "icon": "data/decks/icons/reine.png",
     "aliases": ["Reine Marine", "Reine", "Marine"]
