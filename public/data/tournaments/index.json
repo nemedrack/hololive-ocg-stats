@@ -4,5 +4,11 @@
     "date": "2026-02-08",
     "name": "Weekly Hololive OCG #01",
     "path": "data/tournaments/2026/02/2026-02-08_weekly_zwmy.json"
+  },
+  {
+    "id": "2026-02-15_weekly_e0j2",
+    "date": "2026-02-15",
+    "name": "Weekly Hololive OCG #02",
+    "path": "data/tournaments/2026/02/2026-02-15_weekly_e0j2.json"
   }
 ]
