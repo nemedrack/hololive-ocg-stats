@@ -1,0 +1,492 @@
+{
+  "id": "2026-02-01_weekly_srbd",
+  "name": "Weekly Hololive OCG",
+  "date": "2026-02-01",
+  "location": "",
+  "format": {
+    "type": "swiss",
+    "rounds": 4,
+    "rules": {
+      "winPoints": 3,
+      "drawPoints": 1,
+      "lossPoints": 0
+    }
+  },
+  "players": [
+    {
+      "pid": "p_7c2584vw",
+      "name": "Vicho"
+    },
+    {
+      "pid": "p_3t8wzqg3",
+      "name": "Wamep"
+    },
+    {
+      "pid": "p_pis49oi7",
+      "name": "OwO"
+    },
+    {
+      "pid": "p_px4tpqs2",
+      "name": "Suipis"
+    },
+    {
+      "pid": "p_5dms0etd",
+      "name": "Neme"
+    },
+    {
+      "pid": "p_t4jkwshf",
+      "name": "Ferelion"
+    },
+    {
+      "pid": "p_gyq5h84f",
+      "name": "Bluumy"
+    },
+    {
+      "pid": "p_z0e89q0j",
+      "name": "Dorpen"
+    },
+    {
+      "pid": "p_kh2oysce",
+      "name": "UwU"
+    },
+    {
+      "pid": "p_xhtffoec",
+      "name": "Chicago"
+    },
+    {
+      "pid": "p_ptd9sy4b",
+      "name": "Husdo"
+    },
+    {
+      "pid": "p_kkqc2u61",
+      "name": "Panchoaceman"
+    },
+    {
+      "pid": "p_9hlqu81x",
+      "name": "PatoMoraleja"
+    },
+    {
+      "pid": "p_3gvqmgjl",
+      "name": "Dashter"
+    },
+    {
+      "pid": "p_igqwc98j",
+      "name": "gigi_baw"
+    },
+    {
+      "pid": "p_0cb19ptn",
+      "name": "Zeniox"
+    },
+    {
+      "pid": "p_jwseje7f",
+      "name": "Marks"
+    }
+  ],
+  "decks": [
+    {
+      "did": "azki",
+      "name": "Azki"
+    },
+    {
+      "did": "chocoramp",
+      "name": "Choco Ramp"
+    },
+    {
+      "did": "fuwamoco",
+      "name": "Fuwamoco"
+    },
+    {
+      "did": "kanatapromise",
+      "name": "Kanata Promise"
+    },
+    {
+      "did": "kiararamp",
+      "name": "KiaraRamp"
+    },
+    {
+      "did": "miko",
+      "name": "Miko"
+    },
+    {
+      "did": "monoiroha",
+      "name": "Mono Iroha"
+    },
+    {
+      "did": "monokanata",
+      "name": "Mono Kanata"
+    },
+    {
+      "did": "monomarine",
+      "name": "Mono Marine"
+    },
+    {
+      "did": "ollie",
+      "name": "Ollie"
+    },
+    {
+      "did": "polkiara",
+      "name": "PolKiara"
+    },
+    {
+      "did": "reineiofi",
+      "name": "Reine Iofi"
+    },
+    {
+      "did": "sorazroboco",
+      "name": "SorAzRoboco"
+    },
+    {
+      "did": "suichloe",
+      "name": "SuiChloe"
+    },
+    {
+      "did": "towacore",
+      "name": "Towa Core"
+    }
+  ],
+  "entries": [
+    {
+      "pid": "p_7c2584vw",
+      "did": "ollie"
+    },
+    {
+      "pid": "p_3t8wzqg3",
+      "did": "monoiroha"
+    },
+    {
+      "pid": "p_pis49oi7",
+      "did": "reineiofi"
+    },
+    {
+      "pid": "p_px4tpqs2",
+      "did": "suichloe"
+    },
+    {
+      "pid": "p_5dms0etd",
+      "did": "sorazroboco"
+    },
+    {
+      "pid": "p_t4jkwshf",
+      "did": "fuwamoco"
+    },
+    {
+      "pid": "p_gyq5h84f",
+      "did": "kanatapromise"
+    },
+    {
+      "pid": "p_z0e89q0j",
+      "did": "miko"
+    },
+    {
+      "pid": "p_kh2oysce",
+      "did": "miko"
+    },
+    {
+      "pid": "p_xhtffoec",
+      "did": "towacore"
+    },
+    {
+      "pid": "p_ptd9sy4b",
+      "did": "monokanata"
+    },
+    {
+      "pid": "p_kkqc2u61",
+      "did": "azki"
+    },
+    {
+      "pid": "p_9hlqu81x",
+      "did": "monomarine"
+    },
+    {
+      "pid": "p_3gvqmgjl",
+      "did": "chocoramp"
+    },
+    {
+      "pid": "p_igqwc98j",
+      "did": "polkiara"
+    },
+    {
+      "pid": "p_0cb19ptn",
+      "did": "kiararamp"
+    },
+    {
+      "pid": "p_jwseje7f",
+      "did": "towacore"
+    }
+  ],
+  "rounds": [
+    {
+      "r": 1,
+      "locked": true,
+      "matches": [
+        {
+          "mid": "m_nqsy2cj8",
+          "table": 1,
+          "a": "p_px4tpqs2",
+          "b": "p_igqwc98j",
+          "result": "A"
+        },
+        {
+          "mid": "m_y3yxqmfb",
+          "table": 2,
+          "a": "p_z0e89q0j",
+          "b": "p_kkqc2u61",
+          "result": "A"
+        },
+        {
+          "mid": "m_yozb4rmz",
+          "table": 3,
+          "a": "p_7c2584vw",
+          "b": "p_0cb19ptn",
+          "result": "A"
+        },
+        {
+          "mid": "m_9n1d0wvg",
+          "table": 4,
+          "a": "p_jwseje7f",
+          "b": "p_9hlqu81x",
+          "result": "B"
+        },
+        {
+          "mid": "m_i5twdkur",
+          "table": 5,
+          "a": "p_ptd9sy4b",
+          "b": "p_3t8wzqg3",
+          "result": "B"
+        },
+        {
+          "mid": "m_r6h8d89i",
+          "table": 6,
+          "a": "p_5dms0etd",
+          "b": "p_kh2oysce",
+          "result": "B"
+        },
+        {
+          "mid": "m_n5fzw3g5",
+          "table": 7,
+          "a": "p_pis49oi7",
+          "b": "p_t4jkwshf",
+          "result": "A"
+        },
+        {
+          "mid": "m_4sd03ghb",
+          "table": 8,
+          "a": "p_gyq5h84f",
+          "b": "p_3gvqmgjl",
+          "result": "A"
+        },
+        {
+          "mid": "m_u3lhwli4",
+          "table": 9,
+          "a": "p_xhtffoec",
+          "result": "BYE"
+        }
+      ]
+    },
+    {
+      "r": 2,
+      "locked": true,
+      "matches": [
+        {
+          "mid": "m_7uz4bw7e",
+          "table": 1,
+          "a": "p_gyq5h84f",
+          "b": "p_xhtffoec",
+          "result": "A"
+        },
+        {
+          "mid": "m_ld8c1wf9",
+          "table": 2,
+          "a": "p_z0e89q0j",
+          "b": "p_9hlqu81x",
+          "result": "B"
+        },
+        {
+          "mid": "m_2yq2cghi",
+          "table": 3,
+          "a": "p_7c2584vw",
+          "b": "p_px4tpqs2",
+          "result": "A"
+        },
+        {
+          "mid": "m_vq2yvwak",
+          "table": 4,
+          "a": "p_pis49oi7",
+          "b": "p_3t8wzqg3",
+          "result": "A"
+        },
+        {
+          "mid": "m_pahl20xe",
+          "table": 5,
+          "a": "p_kh2oysce",
+          "b": "p_jwseje7f",
+          "result": "B"
+        },
+        {
+          "mid": "m_iitl95wc",
+          "table": 6,
+          "a": "p_ptd9sy4b",
+          "b": "p_t4jkwshf",
+          "result": "B"
+        },
+        {
+          "mid": "m_98oaeane",
+          "table": 7,
+          "a": "p_5dms0etd",
+          "b": "p_kkqc2u61",
+          "result": "A"
+        },
+        {
+          "mid": "m_owfo5t81",
+          "table": 8,
+          "a": "p_3gvqmgjl",
+          "b": "p_igqwc98j",
+          "result": "B"
+        },
+        {
+          "mid": "m_hg3343fr",
+          "table": 9,
+          "a": "p_0cb19ptn",
+          "result": "BYE"
+        }
+      ]
+    },
+    {
+      "r": 3,
+      "locked": true,
+      "matches": [
+        {
+          "mid": "m_oabwgp73",
+          "table": 1,
+          "a": "p_7c2584vw",
+          "b": "p_gyq5h84f",
+          "result": "B"
+        },
+        {
+          "mid": "m_xxq2dnjw",
+          "table": 2,
+          "a": "p_pis49oi7",
+          "b": "p_9hlqu81x",
+          "result": "B"
+        },
+        {
+          "mid": "m_dc27arna",
+          "table": 3,
+          "a": "p_0cb19ptn",
+          "b": "p_xhtffoec",
+          "result": "B"
+        },
+        {
+          "mid": "m_9cp8jzq2",
+          "table": 4,
+          "a": "p_3t8wzqg3",
+          "b": "p_igqwc98j",
+          "result": "B"
+        },
+        {
+          "mid": "m_wh9uk70c",
+          "table": 5,
+          "a": "p_kh2oysce",
+          "b": "p_px4tpqs2",
+          "result": "B"
+        },
+        {
+          "mid": "m_r0u38q16",
+          "table": 6,
+          "a": "p_jwseje7f",
+          "b": "p_t4jkwshf",
+          "result": "B"
+        },
+        {
+          "mid": "m_q3dty5zh",
+          "table": 7,
+          "a": "p_5dms0etd",
+          "b": "p_z0e89q0j",
+          "result": "A"
+        },
+        {
+          "mid": "m_haycw319",
+          "table": 8,
+          "a": "p_3gvqmgjl",
+          "b": "p_kkqc2u61",
+          "result": "A"
+        },
+        {
+          "mid": "m_2sc06u1e",
+          "table": 9,
+          "a": "p_ptd9sy4b",
+          "result": "BYE"
+        }
+      ]
+    },
+    {
+      "r": 4,
+      "locked": true,
+      "matches": [
+        {
+          "mid": "m_pvo0dbix",
+          "table": 1,
+          "a": "p_gyq5h84f",
+          "b": "p_9hlqu81x",
+          "result": "A"
+        },
+        {
+          "mid": "m_1lp4kjk9",
+          "table": 2,
+          "a": "p_7c2584vw",
+          "b": "p_t4jkwshf",
+          "result": "A"
+        },
+        {
+          "mid": "m_74pa20lw",
+          "table": 3,
+          "a": "p_5dms0etd",
+          "b": "p_pis49oi7",
+          "result": "B"
+        },
+        {
+          "mid": "m_lqjwkkjb",
+          "table": 4,
+          "a": "p_igqwc98j",
+          "b": "p_xhtffoec",
+          "result": "A"
+        },
+        {
+          "mid": "m_ab3n4kly",
+          "table": 5,
+          "a": "p_3gvqmgjl",
+          "b": "p_px4tpqs2",
+          "result": "B"
+        },
+        {
+          "mid": "m_fot6r0rn",
+          "table": 6,
+          "a": "p_jwseje7f",
+          "b": "p_3t8wzqg3",
+          "result": "B"
+        },
+        {
+          "mid": "m_yt075x7y",
+          "table": 7,
+          "a": "p_ptd9sy4b",
+          "b": "p_kh2oysce",
+          "result": "A"
+        },
+        {
+          "mid": "m_o4ztt1zi",
+          "table": 8,
+          "a": "p_z0e89q0j",
+          "b": "p_0cb19ptn",
+          "result": "D"
+        },
+        {
+          "mid": "m_angsrnpf",
+          "table": 9,
+          "a": "p_kkqc2u61",
+          "result": "BYE"
+        }
+      ]
+    }
+  ],
+  "notes": ""
+}
