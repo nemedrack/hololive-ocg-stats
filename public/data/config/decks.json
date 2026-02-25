@@ -534,5 +534,21 @@
     "color": "#8803a6",
     "icon": "data/decks/icons/towa.png",
     "aliases": ["Towa Ramp", "Ramp", "Towa"]
+  },
+  {
+    "key": "Mono Koyori",
+    "name": "Mono Koyori",
+    "oshi": "Koyori",
+    "color": "#8803a6",
+    "icon": "data/decks/icons/koyori.png",
+    "aliases": ["Mono Koyori", "Koyori"]
+  },
+  {
+    "key": "Koyori Iroha Ramp",
+    "name": "Koyori Iroha Ramp",
+    "oshi": "Koyori",
+    "color": "#8803a6",
+    "icon": "data/decks/icons/koyori.png",
+    "aliases": ["Koyori Iroha Ramp", "Koyori", "Iroha"]
   }
 ]
