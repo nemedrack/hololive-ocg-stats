@@ -1,0 +1,304 @@
+{
+  "id": "2026-02-25_weekly_yx2l",
+  "name": "Weekly Hololive OCG",
+  "date": "2026-02-25",
+  "location": "",
+  "format": {
+    "type": "swiss",
+    "rounds": 4,
+    "rules": {
+      "winPoints": 3,
+      "drawPoints": 1,
+      "lossPoints": 0
+    }
+  },
+  "players": [
+    {
+      "pid": "p_c1yqve0q",
+      "name": "Neme"
+    },
+    {
+      "pid": "p_zxw4c5f2",
+      "name": "Dashter"
+    },
+    {
+      "pid": "p_m5ci9jxj",
+      "name": "Vicho"
+    },
+    {
+      "pid": "p_h06p8ejp",
+      "name": "Dorpen"
+    },
+    {
+      "pid": "p_dsw7fjj5",
+      "name": "gigi_baw"
+    },
+    {
+      "pid": "p_iszowlbr",
+      "name": "Bluumy"
+    },
+    {
+      "pid": "p_9oy5ugow",
+      "name": "Ferelion"
+    },
+    {
+      "pid": "p_ycprwqmn",
+      "name": "UwU"
+    },
+    {
+      "pid": "p_xvboyxwu",
+      "name": "OwO"
+    },
+    {
+      "pid": "p_1cqb8v43",
+      "name": "Suipis"
+    }
+  ],
+  "decks": [
+    {
+      "did": "botan",
+      "name": "Botan"
+    },
+    {
+      "did": "fuwamoco",
+      "name": "Fuwamoco"
+    },
+    {
+      "did": "Koyori Iroha Ramp",
+      "name": "Koyori Iroha Ramp"
+    },
+    {
+      "did": "marineiroha",
+      "name": "Marine Iroha"
+    },
+    {
+      "did": "micomet",
+      "name": "miComet"
+    },
+    {
+      "did": "monokorone",
+      "name": "Mono Korone"
+    },
+    {
+      "did": "ollie",
+      "name": "Ollie"
+    },
+    {
+      "did": "pekoiroha",
+      "name": "Peko Iroha"
+    },
+    {
+      "did": "shionchloe",
+      "name": "Shion Chloe"
+    }
+  ],
+  "entries": [
+    {
+      "pid": "p_c1yqve0q",
+      "did": "micomet"
+    },
+    {
+      "pid": "p_zxw4c5f2",
+      "did": "Koyori Iroha Ramp"
+    },
+    {
+      "pid": "p_m5ci9jxj",
+      "did": "Koyori Iroha Ramp"
+    },
+    {
+      "pid": "p_h06p8ejp",
+      "did": "monokorone"
+    },
+    {
+      "pid": "p_dsw7fjj5",
+      "did": "ollie"
+    },
+    {
+      "pid": "p_iszowlbr",
+      "did": "pekoiroha"
+    },
+    {
+      "pid": "p_9oy5ugow",
+      "did": "fuwamoco"
+    },
+    {
+      "pid": "p_ycprwqmn",
+      "did": "shionchloe"
+    },
+    {
+      "pid": "p_xvboyxwu",
+      "did": "marineiroha"
+    },
+    {
+      "pid": "p_1cqb8v43",
+      "did": "botan"
+    }
+  ],
+  "rounds": [
+    {
+      "r": 1,
+      "locked": true,
+      "matches": [
+        {
+          "mid": "m_ietx0nfb",
+          "table": 1,
+          "a": "p_c1yqve0q",
+          "b": "p_1cqb8v43",
+          "result": "A"
+        },
+        {
+          "mid": "m_ujjnymw7",
+          "table": 2,
+          "a": "p_m5ci9jxj",
+          "b": "p_iszowlbr",
+          "result": "A"
+        },
+        {
+          "mid": "m_nyf3atyz",
+          "table": 3,
+          "a": "p_zxw4c5f2",
+          "b": "p_ycprwqmn",
+          "result": "A"
+        },
+        {
+          "mid": "m_m2ug7hff",
+          "table": 4,
+          "a": "p_h06p8ejp",
+          "b": "p_xvboyxwu",
+          "result": "A"
+        },
+        {
+          "mid": "m_tqi35ozi",
+          "table": 5,
+          "a": "p_dsw7fjj5",
+          "b": "p_9oy5ugow",
+          "result": "A"
+        }
+      ]
+    },
+    {
+      "r": 2,
+      "locked": true,
+      "matches": [
+        {
+          "mid": "m_z29awdts",
+          "table": 1,
+          "a": "p_c1yqve0q",
+          "b": "p_iszowlbr",
+          "result": "A"
+        },
+        {
+          "mid": "m_okp4p19g",
+          "table": 2,
+          "a": "p_zxw4c5f2",
+          "b": "p_1cqb8v43",
+          "result": "A"
+        },
+        {
+          "mid": "m_wue7ivu6",
+          "table": 3,
+          "a": "p_m5ci9jxj",
+          "b": "p_xvboyxwu",
+          "result": "A"
+        },
+        {
+          "mid": "m_w0v7qf8g",
+          "table": 4,
+          "a": "p_h06p8ejp",
+          "b": "p_ycprwqmn",
+          "result": "A"
+        },
+        {
+          "mid": "m_jbdozujr",
+          "table": 5,
+          "a": "p_dsw7fjj5",
+          "b": "p_9oy5ugow",
+          "result": "A"
+        }
+      ]
+    },
+    {
+      "r": 3,
+      "locked": true,
+      "matches": [
+        {
+          "mid": "m_urtue192",
+          "table": 1,
+          "a": "p_c1yqve0q",
+          "b": "p_zxw4c5f2",
+          "result": "A"
+        },
+        {
+          "mid": "m_fwiypbjm",
+          "table": 2,
+          "a": "p_m5ci9jxj",
+          "b": "p_dsw7fjj5",
+          "result": "A"
+        },
+        {
+          "mid": "m_ldwcdrxb",
+          "table": 3,
+          "a": "p_h06p8ejp",
+          "b": "p_1cqb8v43",
+          "result": "A"
+        },
+        {
+          "mid": "m_8nwkjfvp",
+          "table": 4,
+          "a": "p_ycprwqmn",
+          "b": "p_xvboyxwu",
+          "result": "A"
+        },
+        {
+          "mid": "m_h2gmqqbk",
+          "table": 5,
+          "a": "p_iszowlbr",
+          "b": "p_9oy5ugow",
+          "result": "A"
+        }
+      ]
+    },
+    {
+      "r": 4,
+      "locked": true,
+      "matches": [
+        {
+          "mid": "m_84q59x3v",
+          "table": 1,
+          "a": "p_c1yqve0q",
+          "b": "p_m5ci9jxj",
+          "result": "B"
+        },
+        {
+          "mid": "m_ycstwfxp",
+          "table": 2,
+          "a": "p_dsw7fjj5",
+          "b": "p_ycprwqmn",
+          "result": "A"
+        },
+        {
+          "mid": "m_fwxownb7",
+          "table": 3,
+          "a": "p_zxw4c5f2",
+          "b": "p_iszowlbr",
+          "result": "A"
+        },
+        {
+          "mid": "m_9be7wjry",
+          "table": 4,
+          "a": "p_9oy5ugow",
+          "b": "p_h06p8ejp",
+          "result": "A"
+        },
+        {
+          "mid": "m_hdm9ukf0",
+          "table": 5,
+          "a": "p_xvboyxwu",
+          "b": "p_1cqb8v43",
+          "result": "A"
+        }
+      ]
+    }
+  ],
+  "notes": ""
+}

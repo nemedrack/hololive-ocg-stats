@@ -27,6 +27,12 @@
     "id": "2026-02-22-lunar_oaoj",
     "date": "2026-02-22",
     "name": "Lunar New Year OCG #01",
-    "path": "data/tournaments/2026/02/2026-02-22-lunar_oaoj.json"
+    "path": "data/tournaments/2026/02/2026-02-22_lunar_oaoj.json"
+  },
+  {
+    "id": "2026-02-22-weekly_yx2l",
+    "date": "2026-02-22",
+    "name": "Weekly Hololive OCG #05",
+    "path": "data/tournaments/2026/02/2026-02-22_weekly_yx2l.json"
   }
 ]
