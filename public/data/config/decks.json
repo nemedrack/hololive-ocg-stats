@@ -256,6 +256,14 @@
     "aliases": ["SubMarine", "subaru"]
   },
   {
+    "key": "Mono Subaru",
+    "name": "Mono Subaru",
+    "oshi": "Subaru",
+    "color": "#fcca03",
+    "icon": "data/decks/icons/subaru.png",
+    "aliases": ["Mono Subaru", "Subaru"]
+  },
+  {
     "key": "kiararamp",
     "name": "KiaraRamp",
     "oshi": "Kiara",
@@ -550,5 +558,61 @@
     "color": "#8803a6",
     "icon": "data/decks/icons/koyori.png",
     "aliases": ["Koyori Iroha Ramp", "Koyori", "Iroha"]
+  },
+  {
+    "key": "Raden",
+    "name": "Raden",
+    "oshi": "Raden",
+    "color": "#8803a6",
+    "icon": "data/decks/icons/raden.png",
+    "aliases": ["Raden"]
+  },
+  {
+    "key": "Ririka",
+    "name": "Ririka",
+    "oshi": "Ririka",
+    "color": "#8803a6",
+    "icon": "data/decks/icons/ririka.png",
+    "aliases": ["Ririka"]
+  },
+  {
+    "key": "Mono Lamy",
+    "name": "Mono Lamy",
+    "oshi": "Lamy",
+    "color": "#8803a6",
+    "icon": "data/decks/icons/lamy.png",
+    "aliases": ["Mono Lamy", "Lamy"]
+  },
+  {
+    "key": "Lamy Nene",
+    "name": "Lamy Nene",
+    "oshi": "Lamy",
+    "color": "#8803a6",
+    "icon": "data/decks/icons/lamy.png",
+    "aliases": ["Lamy Nene", "Nene", "Lamy"]
+  },
+  {
+    "key": "Mono Laplus",
+    "name": "Mono Laplus",
+    "oshi": "Laplus",
+    "color": "#8803a6",
+    "icon": "data/decks/icons/laplus.png",
+    "aliases": ["Mono Laplus", "Laplus"]
+  },
+  {
+    "key": "HoloX (Chloe)",
+    "name": "HoloX",
+    "oshi": "Laplus",
+    "color": "#8803a6",
+    "icon": "data/decks/icons/laplus.png",
+    "aliases": ["HoloX", "Laplus"]
+  },
+  {
+    "key": "HoloX (Iroha)",
+    "name": "HoloX",
+    "oshi": "Laplus",
+    "color": "#8803a6",
+    "icon": "data/decks/icons/laplus.png",
+    "aliases": ["HoloX", "Laplus"]
   }
 ]
