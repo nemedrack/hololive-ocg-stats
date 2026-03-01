@@ -152,6 +152,14 @@
     "aliases": ["Korone", "Mono Korone"]
   },
   {
+    "key": "koronemarine",
+    "name": "Korone Marine",
+    "oshi": "Korone",
+    "color": "#c9bf30",
+    "icon": "data/decks/icons/korone.png",
+    "aliases": ["Korone", "Korone Marine"]
+  },
+  {
     "key": "suichloe",
     "name": "SuiChloe",
     "oshi": "Suisei",
@@ -542,6 +550,14 @@
     "color": "#8803a6",
     "icon": "data/decks/icons/towa.png",
     "aliases": ["Towa Ramp", "Ramp", "Towa"]
+  },
+  {
+    "key": "towamoona",
+    "name": "Towa Moona",
+    "oshi": "Towa",
+    "color": "#8803a6",
+    "icon": "data/decks/icons/towa.png",
+    "aliases": ["Towa Moona", "Moona", "Towa"]
   },
   {
     "key": "Mono Koyori",
