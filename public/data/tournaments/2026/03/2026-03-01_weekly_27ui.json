@@ -1,0 +1,382 @@
+{
+  "id": "2026-02-25_weekly_27ui",
+  "name": "Weekly Hololive OCG",
+  "date": "2026-03-01",
+  "location": "",
+  "format": {
+    "type": "swiss",
+    "rounds": 4,
+    "rules": {
+      "winPoints": 3,
+      "drawPoints": 1,
+      "lossPoints": 0
+    }
+  },
+  "players": [
+    {
+      "pid": "p_5ruqanps",
+      "name": "Neme"
+    },
+    {
+      "pid": "p_d2ph0q0x",
+      "name": "Arche"
+    },
+    {
+      "pid": "p_wwojtpoo",
+      "name": "Suipis"
+    },
+    {
+      "pid": "p_ax8udctf",
+      "name": "Bluumy"
+    },
+    {
+      "pid": "p_tmty3udk",
+      "name": "Matikanne"
+    },
+    {
+      "pid": "p_ju5qpoo8",
+      "name": "Ferelion"
+    },
+    {
+      "pid": "p_ezpk8xvw",
+      "name": "UwU"
+    },
+    {
+      "pid": "p_n5m9i5lh",
+      "name": "Dashter"
+    },
+    {
+      "pid": "p_3vewk6sn",
+      "name": "OwO"
+    },
+    {
+      "pid": "p_uvcjkcrg",
+      "name": "Dorpen"
+    },
+    {
+      "pid": "p_u0374vbz",
+      "name": "Wamep"
+    },
+    {
+      "pid": "p_pnxlzzxi",
+      "name": "Chicago"
+    },
+    {
+      "pid": "p_obz5zn7t",
+      "name": "Criss"
+    }
+  ],
+  "decks": [
+    {
+      "did": "azki",
+      "name": "Azki"
+    },
+    {
+      "did": "fuwamoco",
+      "name": "Fuwamoco"
+    },
+    {
+      "did": "kiararamp",
+      "name": "KiaraRamp"
+    },
+    {
+      "did": "koronemarine",
+      "name": "Korone Marine"
+    },
+    {
+      "did": "monokorone",
+      "name": "Mono Korone"
+    },
+    {
+      "did": "monomarine",
+      "name": "Mono Marine"
+    },
+    {
+      "did": "promisecore",
+      "name": "Promise Core"
+    },
+    {
+      "did": "Ririka",
+      "name": "Ririka"
+    },
+    {
+      "did": "submarine",
+      "name": "SubMarine"
+    },
+    {
+      "did": "suichloe",
+      "name": "SuiChloe"
+    },
+    {
+      "did": "towamoona",
+      "name": "Towa Moona"
+    }
+  ],
+  "entries": [
+    {
+      "pid": "p_5ruqanps",
+      "did": "Ririka"
+    },
+    {
+      "pid": "p_d2ph0q0x",
+      "did": "kiararamp"
+    },
+    {
+      "pid": "p_wwojtpoo",
+      "did": "suichloe"
+    },
+    {
+      "pid": "p_tmty3udk",
+      "did": "kiararamp"
+    },
+    {
+      "pid": "p_ju5qpoo8",
+      "did": "fuwamoco"
+    },
+    {
+      "pid": "p_ezpk8xvw",
+      "did": "promisecore"
+    },
+    {
+      "pid": "p_n5m9i5lh",
+      "did": "suichloe"
+    },
+    {
+      "pid": "p_3vewk6sn",
+      "did": "monomarine"
+    },
+    {
+      "pid": "p_uvcjkcrg",
+      "did": "monokorone"
+    },
+    {
+      "pid": "p_u0374vbz",
+      "did": "submarine"
+    },
+    {
+      "pid": "p_ax8udctf",
+      "did": "koronemarine"
+    },
+    {
+      "pid": "p_pnxlzzxi",
+      "did": "towamoona"
+    },
+    {
+      "pid": "p_obz5zn7t",
+      "did": "azki"
+    }
+  ],
+  "rounds": [
+    {
+      "r": 1,
+      "locked": true,
+      "matches": [
+        {
+          "mid": "m_7tg2eew8",
+          "table": 1,
+          "a": "p_5ruqanps",
+          "b": "p_d2ph0q0x",
+          "result": "B"
+        },
+        {
+          "mid": "m_8sqjwmvu",
+          "table": 2,
+          "a": "p_wwojtpoo",
+          "b": "p_ax8udctf",
+          "result": "B"
+        },
+        {
+          "mid": "m_rbemmj9w",
+          "table": 3,
+          "a": "p_tmty3udk",
+          "b": "p_ju5qpoo8",
+          "result": "A"
+        },
+        {
+          "mid": "m_dlmq4t9n",
+          "table": 4,
+          "a": "p_ezpk8xvw",
+          "b": "p_n5m9i5lh",
+          "result": "A"
+        },
+        {
+          "mid": "m_rxwakg7g",
+          "table": 5,
+          "a": "p_3vewk6sn",
+          "b": "p_uvcjkcrg",
+          "result": "A"
+        },
+        {
+          "mid": "m_0zs4vk53",
+          "table": 6,
+          "a": "p_u0374vbz",
+          "b": "p_pnxlzzxi",
+          "result": "A"
+        }
+      ]
+    },
+    {
+      "r": 2,
+      "locked": true,
+      "matches": [
+        {
+          "mid": "m_xfkdryzw",
+          "table": 1,
+          "a": "p_uvcjkcrg",
+          "b": "p_ju5qpoo8",
+          "result": "A"
+        },
+        {
+          "mid": "m_csbhz24z",
+          "table": 2,
+          "a": "p_n5m9i5lh",
+          "b": "p_wwojtpoo",
+          "result": "B"
+        },
+        {
+          "mid": "m_fk78qem7",
+          "table": 3,
+          "a": "p_pnxlzzxi",
+          "b": "p_obz5zn7t",
+          "result": "A"
+        },
+        {
+          "mid": "m_9rr2fitz",
+          "table": 4,
+          "a": "p_tmty3udk",
+          "b": "p_d2ph0q0x",
+          "result": "B"
+        },
+        {
+          "mid": "m_vveb6x6i",
+          "table": 5,
+          "a": "p_ezpk8xvw",
+          "b": "p_ax8udctf",
+          "result": "B"
+        },
+        {
+          "mid": "m_xod8nzgt",
+          "table": 6,
+          "a": "p_3vewk6sn",
+          "b": "p_u0374vbz",
+          "result": "B"
+        },
+        {
+          "mid": "m_arsu0c99",
+          "table": 7,
+          "a": "p_5ruqanps",
+          "result": "BYE"
+        }
+      ]
+    },
+    {
+      "r": 3,
+      "locked": true,
+      "matches": [
+        {
+          "mid": "m_3xc75be2",
+          "table": 1,
+          "a": "p_u0374vbz",
+          "b": "p_d2ph0q0x",
+          "result": "B"
+        },
+        {
+          "mid": "m_ost9h2io",
+          "table": 2,
+          "a": "p_ax8udctf",
+          "b": "p_5ruqanps",
+          "result": "A"
+        },
+        {
+          "mid": "m_fgmjzohn",
+          "table": 3,
+          "a": "p_ju5qpoo8",
+          "b": "p_obz5zn7t",
+          "result": "A"
+        },
+        {
+          "mid": "m_p6qkzt7m",
+          "table": 4,
+          "a": "p_3vewk6sn",
+          "b": "p_pnxlzzxi",
+          "result": "B"
+        },
+        {
+          "mid": "m_s6brshtv",
+          "table": 5,
+          "a": "p_wwojtpoo",
+          "b": "p_uvcjkcrg",
+          "result": "B"
+        },
+        {
+          "mid": "m_v9ab0nyw",
+          "table": 6,
+          "a": "p_tmty3udk",
+          "b": "p_ezpk8xvw",
+          "result": "B"
+        },
+        {
+          "mid": "m_gs278x8p",
+          "table": 7,
+          "a": "p_n5m9i5lh",
+          "result": "BYE"
+        }
+      ]
+    },
+    {
+      "r": 4,
+      "locked": true,
+      "matches": [
+        {
+          "mid": "m_2d3nw0gl",
+          "table": 1,
+          "a": "p_d2ph0q0x",
+          "b": "p_ax8udctf",
+          "result": "A"
+        },
+        {
+          "mid": "m_nbfflud9",
+          "table": 2,
+          "a": "p_uvcjkcrg",
+          "b": "p_u0374vbz",
+          "result": "B"
+        },
+        {
+          "mid": "m_p8pt4bzr",
+          "table": 3,
+          "a": "p_ezpk8xvw",
+          "b": "p_pnxlzzxi",
+          "result": "B"
+        },
+        {
+          "mid": "m_5ybbi6do",
+          "table": 4,
+          "a": "p_5ruqanps",
+          "b": "p_3vewk6sn",
+          "result": "A"
+        },
+        {
+          "mid": "m_wteve7ff",
+          "table": 5,
+          "a": "p_wwojtpoo",
+          "b": "p_obz5zn7t",
+          "result": "A"
+        },
+        {
+          "mid": "m_uyvyl72x",
+          "table": 6,
+          "a": "p_tmty3udk",
+          "b": "p_n5m9i5lh",
+          "result": "A"
+        },
+        {
+          "mid": "m_vp5rmnt2",
+          "table": 7,
+          "a": "p_ju5qpoo8",
+          "result": "BYE"
+        }
+      ]
+    }
+  ],
+  "notes": ""
+}
