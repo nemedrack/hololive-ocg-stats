@@ -258,10 +258,10 @@
   {
     "key": "submarine",
     "name": "SubMarine",
-    "oshi": "Subaru",
+    "oshi": "Marine",
     "color": "#fcca03",
-    "icon": "data/decks/icons/subaru.png",
-    "aliases": ["SubMarine", "subaru"]
+    "icon": "data/decks/icons/marine.png",
+    "aliases": ["SubMarine", "Marine"]
   },
   {
     "key": "Mono Subaru",
@@ -373,6 +373,13 @@
     "oshi": "Miko",
     "color": "#fa5a5a",
     "icon": "data/decks/icons/miko.png",
+    "aliases": ["Miko"]
+  },{
+    "key": "mikanata",
+    "name": "Miko Kanata?",
+    "oshi": "Kanata",
+    "color": "#fa5a5a",
+    "icon": "data/decks/icons/kanata.png",
     "aliases": ["Miko"]
   },
   {
