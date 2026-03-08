@@ -1,0 +1,332 @@
+{
+  "id": "2026-03-02_weekly_je4v",
+  "name": "Weekly Hololive OCG",
+  "date": "2026-03-08",
+  "location": "",
+  "format": {
+    "type": "swiss",
+    "rounds": 4,
+    "rules": {
+      "winPoints": 3,
+      "drawPoints": 1,
+      "lossPoints": 0
+    }
+  },
+  "players": [
+    {
+      "pid": "p_k14b2d2c",
+      "name": "Bluumy"
+    },
+    {
+      "pid": "p_ix3wfya6",
+      "name": "Panchoaceman"
+    },
+    {
+      "pid": "p_btgsn7ig",
+      "name": "OwO"
+    },
+    {
+      "pid": "p_43zcchkc",
+      "name": "Wamep"
+    },
+    {
+      "pid": "p_tmpe0lh7",
+      "name": "gigi_baw"
+    },
+    {
+      "pid": "p_g9owv91y",
+      "name": "UwU"
+    },
+    {
+      "pid": "p_uo6cukq7",
+      "name": "Neme"
+    },
+    {
+      "pid": "p_yrebbpdd",
+      "name": "Dorpen"
+    },
+    {
+      "pid": "p_tw7dv3ez",
+      "name": "Ferelion"
+    },
+    {
+      "pid": "p_fi4dc28s",
+      "name": "Dashter"
+    },
+    {
+      "pid": "p_ae0iufmu",
+      "name": "Suipis"
+    }
+  ],
+  "decks": [
+    {
+      "did": "fuwamoco",
+      "name": "Fuwamoco"
+    },
+    {
+      "did": "marinechloe",
+      "name": "Marine Chloe"
+    },
+    {
+      "did": "mikanata",
+      "name": "Miko Kanata?"
+    },
+    {
+      "did": "polkafans",
+      "name": "Polka 12 Fans"
+    },
+    {
+      "did": "reineiofi",
+      "name": "Reine Iofi"
+    },
+    {
+      "did": "sorazroboco",
+      "name": "SorAzRoboco"
+    },
+    {
+      "did": "submarine",
+      "name": "SubMarine"
+    },
+    {
+      "did": "suichloe",
+      "name": "SuiChloe"
+    }
+  ],
+  "entries": [
+    {
+      "pid": "p_k14b2d2c",
+      "did": "reineiofi"
+    },
+    {
+      "pid": "p_ix3wfya6",
+      "did": "submarine"
+    },
+    {
+      "pid": "p_btgsn7ig",
+      "did": "marinechloe"
+    },
+    {
+      "pid": "p_tmpe0lh7",
+      "did": "polkafans"
+    },
+    {
+      "pid": "p_g9owv91y",
+      "did": "reineiofi"
+    },
+    {
+      "pid": "p_uo6cukq7",
+      "did": "suichloe"
+    },
+    {
+      "pid": "p_ae0iufmu",
+      "did": "suichloe"
+    },
+    {
+      "pid": "p_tw7dv3ez",
+      "did": "fuwamoco"
+    },
+    {
+      "pid": "p_yrebbpdd",
+      "did": "sorazroboco"
+    },
+    {
+      "pid": "p_43zcchkc",
+      "did": "submarine"
+    },
+    {
+      "pid": "p_fi4dc28s",
+      "did": "mikanata"
+    }
+  ],
+  "rounds": [
+    {
+      "r": 1,
+      "locked": true,
+      "matches": [
+        {
+          "mid": "m_6uevno1n",
+          "table": 1,
+          "a": "p_g9owv91y",
+          "b": "p_43zcchkc",
+          "result": "A"
+        },
+        {
+          "mid": "m_e242atp4",
+          "table": 2,
+          "a": "p_ae0iufmu",
+          "b": "p_ix3wfya6",
+          "result": "B"
+        },
+        {
+          "mid": "m_82a13yl7",
+          "table": 3,
+          "a": "p_tw7dv3ez",
+          "b": "p_yrebbpdd",
+          "result": "A"
+        },
+        {
+          "mid": "m_6rjk7ygv",
+          "table": 4,
+          "a": "p_uo6cukq7",
+          "b": "p_btgsn7ig",
+          "result": "B"
+        },
+        {
+          "mid": "m_lkl10zkx",
+          "table": 5,
+          "a": "p_fi4dc28s",
+          "b": "p_k14b2d2c",
+          "result": "B"
+        },
+        {
+          "mid": "m_jhulu540",
+          "table": 6,
+          "a": "p_tmpe0lh7",
+          "result": "BYE"
+        }
+      ]
+    },
+    {
+      "r": 2,
+      "locked": true,
+      "matches": [
+        {
+          "mid": "m_9yqk3kxz",
+          "table": 1,
+          "a": "p_btgsn7ig",
+          "b": "p_tmpe0lh7",
+          "result": "B"
+        },
+        {
+          "mid": "m_kqi9rbt6",
+          "table": 2,
+          "a": "p_k14b2d2c",
+          "b": "p_tw7dv3ez",
+          "result": "A"
+        },
+        {
+          "mid": "m_ubvhjmr9",
+          "table": 3,
+          "a": "p_g9owv91y",
+          "b": "p_ix3wfya6",
+          "result": "B"
+        },
+        {
+          "mid": "m_ndbnm2y9",
+          "table": 4,
+          "a": "p_ae0iufmu",
+          "b": "p_fi4dc28s",
+          "result": "B"
+        },
+        {
+          "mid": "m_wn1ed8mr",
+          "table": 5,
+          "a": "p_uo6cukq7",
+          "b": "p_yrebbpdd",
+          "result": "B"
+        },
+        {
+          "mid": "m_2cho10z7",
+          "table": 6,
+          "a": "p_43zcchkc",
+          "result": "BYE"
+        }
+      ]
+    },
+    {
+      "r": 3,
+      "locked": true,
+      "matches": [
+        {
+          "mid": "m_cjl51869",
+          "table": 1,
+          "a": "p_k14b2d2c",
+          "b": "p_tmpe0lh7",
+          "result": "A"
+        },
+        {
+          "mid": "m_pia71nl3",
+          "table": 2,
+          "a": "p_tw7dv3ez",
+          "b": "p_ix3wfya6",
+          "result": "B"
+        },
+        {
+          "mid": "m_1wrma55k",
+          "table": 3,
+          "a": "p_fi4dc28s",
+          "b": "p_43zcchkc",
+          "result": "B"
+        },
+        {
+          "mid": "m_j7b0fsfd",
+          "table": 4,
+          "a": "p_g9owv91y",
+          "b": "p_yrebbpdd",
+          "result": "A"
+        },
+        {
+          "mid": "m_kotnwd25",
+          "table": 5,
+          "a": "p_ae0iufmu",
+          "b": "p_btgsn7ig",
+          "result": "B"
+        },
+        {
+          "mid": "m_mp73fbsw",
+          "table": 6,
+          "a": "p_uo6cukq7",
+          "result": "BYE"
+        }
+      ]
+    },
+    {
+      "r": 4,
+      "locked": true,
+      "matches": [
+        {
+          "mid": "m_ojokffu8",
+          "table": 1,
+          "a": "p_k14b2d2c",
+          "b": "p_ix3wfya6",
+          "result": "A"
+        },
+        {
+          "mid": "m_ki8xm6jb",
+          "table": 2,
+          "a": "p_g9owv91y",
+          "b": "p_btgsn7ig",
+          "result": "B"
+        },
+        {
+          "mid": "m_d9wqwif5",
+          "table": 3,
+          "a": "p_43zcchkc",
+          "b": "p_tmpe0lh7",
+          "result": "A"
+        },
+        {
+          "mid": "m_cpcj891g",
+          "table": 4,
+          "a": "p_uo6cukq7",
+          "b": "p_tw7dv3ez",
+          "result": "A"
+        },
+        {
+          "mid": "m_ec0lt4tb",
+          "table": 5,
+          "a": "p_fi4dc28s",
+          "b": "p_yrebbpdd",
+          "result": "B"
+        },
+        {
+          "mid": "m_iq86pisj",
+          "table": 6,
+          "a": "p_ae0iufmu",
+          "result": "BYE"
+        }
+      ]
+    }
+  ],
+  "notes": ""
+}

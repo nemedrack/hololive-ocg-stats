@@ -40,5 +40,11 @@
     "date": "2026-03-01",
     "name": "Weekly Hololive OCG #06",
     "path": "data/tournaments/2026/03/2026-03-01_weekly_27ui.json"
+  },
+  {
+    "id": "2026-03-08-weekly_yx2l",
+    "date": "2026-03-08",
+    "name": "Weekly Hololive OCG #07",
+    "path": "data/tournaments/2026/03/2026-03-08_weekly_je4v.json"
   }
 ]

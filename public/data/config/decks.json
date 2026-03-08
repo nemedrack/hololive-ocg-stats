@@ -258,9 +258,9 @@
   {
     "key": "submarine",
     "name": "SubMarine",
-    "oshi": "Marine",
+    "oshi": "Korone",
     "color": "#fcca03",
-    "icon": "data/decks/icons/marine.png",
+    "icon": "data/decks/icons/korone.png",
     "aliases": ["SubMarine", "Marine"]
   },
   {
